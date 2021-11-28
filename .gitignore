@@ -19,6 +19,7 @@ lib-cov
 pids
 logs
 results
+dist
 
 lib/dockerImage/keys
 coverage
